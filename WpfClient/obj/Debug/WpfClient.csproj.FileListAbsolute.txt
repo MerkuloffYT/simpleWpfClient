@@ -1,0 +1,59 @@
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\App.g.cs
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\ControlzEx.dll
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\MahApps.Metro.dll
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\ControlzEx.pdb
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\ControlzEx.xml
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\MahApps.Metro.xml
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\skamp\source\repos\WpfClient\WpfClient\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\AddNewStudentWindow.g.cs
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\App.baml
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\AddNewStudentWindow.baml
+C:\Users\skamp\source\repos\WpfClient\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\App.g.cs
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\skamp\source\repos\WpfClient — копия\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\App.g.cs
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\Ира\Desktop\WpfClient\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\Ира\Desktop\WpfClient\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\Ира\Desktop\WpfClient\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\Ира\Desktop\WpfClient\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache

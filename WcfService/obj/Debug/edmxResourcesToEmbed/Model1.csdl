@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bd_musicModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="music_table">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Исполнитель" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
+    <Property Name="Наименование_трека" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
+    <Property Name="Альбом" Type="String" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="Год" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="bd_musicEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="music_table" EntityType="Self.music_table" />
+  </EntityContainer>
+</Schema>
